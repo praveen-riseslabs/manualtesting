@@ -1,0 +1,22 @@
+Introduction to Zephyr Scale & setup
+
+We need Zephyr to write test cases
+Try to login into the Zephyr after logging in create new test cases
+Click on Create Test case
+
+Example of registreation page
+
+Name : Verify login with valid email & password
+Objectives
+Precondition : user is already registreated to the website
+Give details
+
+Next go to test scripts 
+
+Step 1: Open login page    
+Step 2: Enter username
+Step 3: Enter valid password
+Step 4: Click on login
+
+Next go to execution
+
