@@ -11,7 +11,7 @@ Objectives
 Precondition : user is already registreated to the website
 Give details
 
-Next go to test scripts 
+Next go to test script
 
 Step 1: Open login page    
 Step 2: Enter username
