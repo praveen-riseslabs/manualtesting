@@ -4,7 +4,7 @@ We need Zephyr to write test cases
 Try to login into the Zephyr after logging in create new test cases
 Click on Create Test case
 
-Example of registreation page
+Example of registreation pages
 
 Name : Verify login with valid email & password
 Objectives
