@@ -1,0 +1,16 @@
+-->>Introdution to Mobile testing
+
+What is Mobile application?
+
+A mobile application, is a type of application software designed to run on a mobile device,
+such as a smartphone or tablet computer.
+
+-->>Types of Mobile application
+
+Native: These applications haave good performance we can not access them from browser. we need to install physically on the device ex: google maps
+
+Hbrid: Combination of native and web application, easy to use, can work offline, a website inside an appit is developed by using development frame works that used to develop website but it is inside the mobile application
+
+Web : We can open these apps from the browser and low cost, easy to develop, we need to do browser compatibility testing we need internet to access the applications
+
+ex:You tube
