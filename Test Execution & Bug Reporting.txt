@@ -1,0 +1,34 @@
+
+-->> How to write a bug Report
+
+What is Bug report : Documentation of the occurrence, nature, and status of a defect.
+
+Expected result =/ Actual result
+
+1.Bug report tile :  Description Details about the exact bug or problem with the page
+
+2.Steps to Reproduce : Must be speceific
+
+3. Expected results :
+
+4. Actual results : what really happned when the steps are executed.
+
+5. Test Environment : Specify the environment ex: Device specification and network in which the defect occurred.
+
+6. Screenshot or video : Take screenshot or video to show the bug to developer team
+
+7. Bug priority : Critical, High, Medium, or low
+
+-->> Different types of Defects
+
+1. Functional Defects : If the functionality of the page is not workiung ex: If the password is not working to 
+
+login the page
+
+2. Visual or UI defects : The notifications or the words not in the correct place.
+
+3. Content defects : Misspelling
+
+4. Performance : Loading slowly
+
+5. suggestion : Not a defect to suggest something to be better.
