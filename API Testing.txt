@@ -1,0 +1,31 @@
+-->>Application programming interface
+
+It is an interface that tells the program to run the application.
+
+API has three major parts request, program, response
+
+-->> HTTP : Hypertext transfer protocol
+
+Start line> Request> version (1.1 or 2), Method (Get-post-put-delete), folder
+
+headers > Cookies and HTML
+
+blank line > Ieseperate header fromthe body
+
+Body > Request : Get (Nothing in the body) Post (the data you provide XML or Json)
+       Response : What we requested and  HTML page
+
+
+-->> XML : Xtensible markup language 
+
+-->> JSON : Javascript object Notation >> It's the part of javascript that hold data
+
+Json code is smaller than XML
+
+-->> SOAP AND REST
+
+SOAP : Simple object access protocal > It uses XML files
+
+REST : Representational state Transfer > It uses JSON files
+
+
