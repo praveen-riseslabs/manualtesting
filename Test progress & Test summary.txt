@@ -1,0 +1,10 @@
+Testing Reports: Test progress & Test summary
+
+What are the testing reports
+
+Test report is a document of the priject that summarizes the performance and result of the project
+
+Test progrees report : A type of test report produced at regular intervals about the progress of test activities against baseline, risks, and alternatives requiring decision. (Each week we need to give the report)
+
+Test Summary report : A type of test report producted at completion milestones that provides an evaluation of the corresponding test items against exit criteria.
+
