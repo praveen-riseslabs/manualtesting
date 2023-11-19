@@ -1,0 +1,48 @@
+SQL: Structured query language
+ 
+>> It is used to communicate with database 
+
+>> SQL for Testers  has many uses.
+
+>> It is used for performance testing
+
+>> When we test the database in operformance testing, sometimes we need to test the response time of the database.
+
+SELECT command :
+
+Select is used to select al the items inside the database.
+
+It also works with lower case letters but standard is Upper case letters.
+
+
+>> If we want to select all the customers records in database
+
+SELECT * FROM customer;
+
+>> If we want to select all the orders in database
+
+SELECT * FROM orders;
+
+>> If we want to select only customers adderss and city in database
+
+SELECT address, city FROM customer;
+
+>> If we want to select only customers email in database
+
+SELECT email FROM customer;
+
+UPDATE Table :
+
+>> Update is used when we want to chnage a record inside the table.
+
+>> If we want to change the customers city in first column.
+
+
+UPDATE customer
+SET city ="cario"
+WHERE customer id = "1";
+
+>> If we want to see one customer the city name is cario.
+
+SELECT *FROM customer;
+WHERE city = "cario";
