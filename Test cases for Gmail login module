@@ -1,0 +1,32 @@
+>>>Login with email id:
+
+
+Enter the email id that starts with numeric numbers >> It should give the error that "Coudn't find the account"
+
+Leave email field empty and click on next  >> It should give the error that "Please enter the email id or phone number"
+
+When try to login with an invalid email id then click on next >> It should give the error that "Coudn't find the account"
+
+Enter valid email id then click on next >> It should accept the email and go to the next page to enter the password
+
+When try to login with any email id without creating an account >> It should give the error that "Coudn't find the account"
+
+Above cases are also same for Corporate email id.
+
+
+>>>Login with phone number:
+
+Enter more than 10 digits from the phone number >> It should give the error that "Please enter the email id or phone number"
+
+Enter less than 10 digits from the phone number >> It should give the error that "Please enter the email id or phone number"
+
+Enter "+" sign before the phone number and entercorrect phone number with 10 digits >> It should accept and go to the next page
+
+When try to login with an invalid phone number >> It should give the error that "Coudn't find the account"
+
+
+After entering the valid email id or phone number it should go to the next page to enter the password
+
+Enter the correct password >> It should sucessfully ligin to the gmail account.
+
+Enter incorrect password >> It should give the error " Wrong password try again (or) click on forgot password to change the password" 
