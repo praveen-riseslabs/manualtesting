@@ -1,0 +1,114 @@
+>> This sections consists of two parts.
+
+>> The first part is theoretical.
+
+Sequential development: Water fall model or V-model
+
+Analysis
+
+Design
+
+Implementation
+
+Testing
+
+In 2001, a group of gurus and software engineers gathered together for three daya and created something that is called the Agile manifesto.
+The Agile manifestoconsis of 4 values and 12 principles and those are the basis of any Agile project.
+
+Agile Four values:
+
+1. Individuals and interactions over processes and tools.
+
+>> That means Individuals and interactions are more important than processes and tools.
+
+>> It is important to interact with everyone the more important is the relation between the testers and each other and the relationship between the testers and developers.
+
+2. Working software over comprehensive documentation.
+
+>> We begin by writing the user requirements or SRS(Software specification) then we sign it ith user that we agree on
+
+>> Agile says the most important thing is that we have a piece of working software.
+
+>> It is important to having a small version of the software(or) a small prototype than writing some documentation os the requirements.
+
+3. Customer collaboration over contract negotiation
+
+>> The relationship between us and the custoner is more important than the contract that have with the customer
+
+For example: If we have a contract with the customer that states that you should have 10 functionalities and we agreed, then cx told us to change some of the functionalities to remove or add in this case we sould not say no, we must collaborate with the customer and try ti make sure that the customer satisfied with the software that he gets.
+
+
+4. Responsing to change over following a plan.
+
+>> plan is flexible in Agile projects, wether is is an inetrnal change between the team whether it is an external change from the stakeholders or something related to the market.
+
+For example: Our compitetor has a new campaign and that will have some effect on us s, in this case we must change the plan.
+
+12 Principles: 
+
+1. Our highest priority is to satisfy the customer through early and continuous delivery of valuable software
+
+>> The first and highiest priority in any Agile project is cx satisfaction to makje the cx satisfied.
+
+>> By giving him some software so that they will check and give feedback.
+
+>> Ex: MVP minimun valuable product, something that he can give us feedback based on its quality.
+
+2. Deliver working software frequently, at intervals of between a few weeks to a few months, with a preference to the shorter timescale
+
+>> RUP: Rational unified process is three months, so from one week to three monnths.
+
+So, if you can deliver a working software each week or each two weeks do this.
+
+>> This is better for the qulaity of the software and for the customer satisfaction and feedback.
+
+3. Working Software is the primary measure of progress
+
+>>It migts have some defects, it might not have all the functionalities that we thought of or that the customer wants, but at least it has some functionality that we can get feedbacl from customer based on them.
+
+4. Welcome changing requirements, even late in development Agile processes harness change for the customer's competitive advantags
+
+>> Must do alot of changes inside our project based on the behaviour of our competitors we need to have some campaigns like them or better than them, so we think of changing requirementrs as a type of competitive advantage.
+
+5. Continuous attention to technical excellence and good design enhances agility
+
+>> We must have a good attention to technical excellance, wether we are talking about cose, wether about design, or the process that we use inside of our company.
+
+>> Ex: If we are writing our code in a bad way from the beginning , like we call it spaghetti code, when we need to perform some changes based on the previous priniciples because the custoner needs them the it would become very difficult to do these changes because from the begining we wrote a bad code.
+
+6. Agile processes promote sustainable development The sponsors, developers, and users should be able to maintain a constant pace indefinitely
+
+>> This means that the whole team must have the same knowledge about the project, For testers developers and product owenrs.
+
+7. Simplicity—the art of maximizing the amount of work not done—is essential
+
+>> If anything in the scope of the project writing test cases or automation testing or development code it doesn't give us high value, will not use it.
+
+8. Build projects around motivated individuals Give them the environment and support they need, and trust them to get the job don
+
+>> If you have motivated people inside the project and we give them support and the trust they need they will get job done without any interference from you as a manager or leader.
+
+9. The best architectures, requirements, and designs emerge from self-organizing teams
+
+>> We, as a team as whole team decide what is going to be done today, next day and decide what we need to do if we face any problem.
+
+10. Business people and developers must work together daily throughout the project
+
+
+>> There must be a daily feedback between the development team and the businesss people.
+
+11. The most efficient and effective method of conveying information to and within a development team is face-to-face conversation
+
+12. At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly
+
+>> Difference between Agile & classical software developement.
+
+Whole team Approach:
+
+1. Involve everyone necessary to ensure 
+success
+2. Small team (from 3 to 9)
+3. Team is Co-located
+4. Quality is everyone’s responsibility
+
+
