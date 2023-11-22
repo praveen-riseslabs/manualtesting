@@ -1,0 +1,83 @@
+>> JIRA is a very famous software development tool that is used by agile teams.
+
+>> This tool deals with iterations, sprints, stories, acceptance, criteria.
+
+>> The most suitable person that shouls use this tool is product owner or the business analyst.
+
+There are many reasons to learn agile tools for testers.
+
+1. Reporting defects
+
+2. Static testing or especially review activities.
+
+BRD : Business requirements documentation
+SRS : Software requirements specification
+
+3. Acceptance criteria : 
+
+>> Test criteria
+
+>> Test scenario
+
+4. Writing Requirements and users stories.
+
+Open jira https://www.atlassion.com/software/jira
+
+Click on get it free
+Click on next
+
+Atlassian is a company who created jira, and it also owns trello.
+
+
+>> Next login with dummy email
+
+give site name
+skip questions
+
+JIRA >> Software development>> Kanan, scrum, Bug tracking
+
+Only track bugs track defect lifecycles
+
+> Create defects
+> Tasks
+> Very similar to trello
+
+Scrum >> Sprints
+
+Product Backlog
+User stories
+Acceptance criteria
+And project roadmap
+
+Will choose scrum because more than 60% to 70% of projects in Aglie environment use scrum as a methodology of managing the project.
+
+In Jira
+
+Issues are Epics, User stories, Defects, task and sub tasks
+
+
+Project types>> Team projects, company projects
+
+Team projects are self organized team
+
+will choose company managed projects
+
+>> After login to the jira we can see the project details
+
+Clicking on 9 dots > We can see confluence it is used to write documents
+
+Your work > Will see the assigned work to us.
+
+Projects > View all projects
+
+Fileters > We can search for any issue
+
+Dashboard > We can track the status of our projects
+
+People > Create team or invite team mates.
+
+in apps > We can integrate jira with other applications like slack, excel, github, google sheets or any other
+
+It if need to create any issues like user stories, epics bugs, tasks and subtasks Will click on create
+
+On the left side, we have other items, we have our board and we can have more than one board inside
