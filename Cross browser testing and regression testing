@@ -1,0 +1,27 @@
+Cross browser testing: CBT involves comparing and analyzing the behaviour of the website in different browser environments.
+
+It is a software testing technique that checks solutions in multiple formats and on various devices to provide confidence in their quality and accessibility no matter how a user chooses to interact
+
+verifying the functionality of the websites on the different common browsers and operating system/mobile os that are widely used right how in market.
+
+we are verifying the functional change on differs os, different browsers, different mobile os.
+
+why should we perform this testing ?
+
+>> To provide the excellent user experience without any browser or device preferences.
+
+>> Essential browsers: Currently using browsers
+
+>> If we are usibg our website in one browserand it is working fine, but when you access the same website in different browserm like safari, it  is not working. So, to avoid this we need to do cross browser tesing.
+
+Tool : Browser Stack
+
+Regression testing:
+
+Regression testing is atype of software testing that verifies that changes mase to the system, such as bug fixes or new features, do not impact previously working functionality.
+
+1. unit Regression testing
+
+2. Regional Regression testing
+
+3. Full Regression testing
