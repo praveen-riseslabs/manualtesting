@@ -20,8 +20,6 @@ Regression testing:
 
 Regression testing is atype of software testing that verifies that changes mase to the system, such as bug fixes or new features, do not impact previously working functionality.
 
-1. unit Regression testing
+1. Partial or unit Regression testing : Testing only those parts of the application that were affected by the changes.
 
-2. Regional Regression testing
-
-3. Full Regression testing
+2. Full Regression testing : Testing the entire application from start to finish after changes have been made.
