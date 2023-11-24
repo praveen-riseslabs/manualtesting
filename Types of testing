@@ -1,0 +1,33 @@
+Black box testing
+
+>> Black box testing is that testing in which the tester does not have the knowledge of the coding.
+
+>> In this testing we only check the functionality of the software that is input and out put is good.
+
+White box testing 
+
+>> In white box testing the tester has knowledge of coding and internal structure of existing software whether the internal structure is working or not.
+
+Unit testing 
+
+>> Unit testing to check the indepedent and individual unit of the module of soiftware
+
+>> Unit test that focuses on components of a software product.
+
+EX : consideer a small unit like login 
+
+Integration Testing 
+
+>> This testing will integrate all the modules one by one and checck the compability issues whether one module is compatible with other module or not.
+
+System testing
+
+in this testing we put the software in different environment and check whether the software is compatible with new environment or not here the overall system testing will be performed by tester.
+
+Performance testing
+
+It checks the speed and effectiveness of the software to make sure that it generates the result within the specific time.
+
+Acceptance testing
+
+This testing is done by the customer to check the delivered product meet the requirement and work as a  customer acceptation.
