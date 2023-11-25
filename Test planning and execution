@@ -1,0 +1,183 @@
+STLC (Software testing life cycle)
+
+1. Requirement Analysis 
+2. Test planning
+3. Test Design 
+4. Test execution
+5. Defect/ Bug reporting & tracking
+6. Test closure
+
+2. Test planning
+
+>> What to test > what are the features to be tested
+>> How to test > what kind of testing we conduct
+>> When to test > Time lines& schedules
+
+Input :
+
+>> Project plan
+>>Functional requirements
+
+Activities :
+
+>> Identify the resources
+>> Test formation
+>> Test estimation > Estimate the testing tome on project
+>> Preparation of the test plan
+>> What tyope of testing we do
+>> who are involving in testing > It will do more experience person
+>> Reviews on test plan
+>> Test plan sign-off
+
+Responsibility :
+
+>> Test Lead/ Team lead (70%)
+>> Test Manager (30%)
+
+Out come :
+
+>> Test plan document
+
+
+3. Test plan designing
+
+Input :
+
+>> The main activity during the test designing is writing the test cases
+
+Functional requirement 
+
+>> What are the features to be tested and what we are expecting from the application and functionality of the application
+
+Design Docs
+
+>> UI design > Buttons > Logo button etc
+
+Use cases 
+
+>> Use cases is also part of the functional requirements, use cases are describe the requirements and which will help uss to understand the requirrements more clearly 
+
+>> Use cases will be there in diagramatic format.
+
+Activities:
+
+>> Preparation of test scenarios
+
+>> In our application what to be tested what areas to be tested 
+
+>> Ex: Login  is scenario, then we need to write test case.
+
+>> preparation of test cases.
+
+>> Based on the scenario will write test cases.
+
+>> Test case is nothing but step by step which we have to perform to test the Functionallity of the features.
+
+Reviews on test cases
+
+>> Peer review : After writing the test cases will review the test cases with our collegue (peer)
+
+>> Will find what are covered and not covered it will be completed withion the team
+
+>> Then will revies with developer testers and project managers.
+
+Traceability Matrix : Mapping documents
+
+>> Mapping between the test casesand requirements
+
+>> requirements traceability matrix (RTM)
+
+>> It says what are the frequirements we have covered and what are the requirements not covered
+
+>> Test cases sign-off > everyone needs to sign-off
+
+Responsibility :
+
+>> Test Lead/ Team lead (30%)
+>> Test Engineer (70%)
+
+Out come :
+
+>> Test cases document
+>> Traceability matrix
+
+4. Test execution 
+
+Input :
+
+Functional requirements, Test plan, Test cases, Build from developement team
+
+Activities :
+
+Executing test cases
+
+>> Based on prority of the test cases will execute
+
+>> first will do smoke testing
+
+Smoke testing : Basic Functionallity testing, installation is working or not, instaallation is successful or not.
+
+>> While execution the test cases we need to prepare test report or log > Passed or failed in one document.
+
+>> Identify the defects and behaviour in the features
+
+>> Prepaaration of the test report/ test log
+
+>> Identify defects
+
+Responsibility :
+
+>> Test Lead/ Team lead (10%)
+>> Test Engineer (90%)
+
+Out come :
+
+>> Status/ Test reports
+
+5. Defect reporting & tracking
+
+>> This is alos including in test execution.
+
+>> As son as you have executed the test cases, we found some defects will report (diff of actual and expected)
+
+Input :
+
+>> Test cases
+>> Test reports/ Test log
+>> we refer test cases & reports
+
+Activities :
+
+>> Preparation of defect report
+>> reporting defects to developers
+
+Responsibility :
+
+>> Test Lead/ Team lead (10%)
+>> Test Engineer (90%)
+
+Out come :
+
+>> Defect report
+
+6. Test closure/ Sign-off
+
+Input :
+
+>> Test reports
+>> Defect reports
+
+Activities :
+
+>> Analyzing test reports
+>> Analyzing bug reporting
+>> Evaluating exit criteria
+
+Responsibility :
+
+>> Test Lead/ Team lead (70%)
+>> Test Engineer (30%)
+
+Out come :
+
+>> Test summary reports
