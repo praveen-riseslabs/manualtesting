@@ -1,0 +1,15 @@
+Time behaviour : The time that the system responds to the request.
+
+>> It examines the ability of the system to respond to user inputs within a specified time and under specified conditions.
+
+Ex : When we click on a button for examplw, what is the time that it takkes the system to act depending on our action.
+
+Resources utilization : we might develop a very good application it on their mobile phones it uses a lot of memory or a lot of RAM. In this case usera will leave the application.
+
+>> we need to make sure that the application is not consuming a huge amount of resources depending on its objective.
+
+Capacity : If number of the user using the application at the same time then the capacity should be agoal of the project.
+
+Types of performance testing
+
+stress testing, scalability testing, spike testing, endurance testing, concurrency testing, capacity testing
